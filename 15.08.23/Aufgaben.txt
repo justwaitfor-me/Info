@@ -1,8 +1,0 @@
-# Binärdarstellung von Daten
-
-## Einstieg - Gefängnisausbruch
-Aufgabe 1) Ja das was Palu sagt stimmt. Man kann alle Zahlen bis 127 darstellen.
-
-Aufgabe 2) Die Stellenwerte der Lampen verdoppeln sich. (0=1,1=2,2=4,3=8,4=16, 5=32, 6=64)
-
-HA: Restliche Aufgaben (https://www.inf-schule.de/information/darstellunginformation/binaerdarstellungzahlen/einstieg_gefaengnisausbruch)
