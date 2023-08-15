@@ -1,9 +1,3 @@
-# Binärdarstellung von Daten
-![Logo des digitalen Schulbuchs inf-schule.de. Schriftzug in Zustandsübergangsdiagramm eines endlichen Automaten.](https://www.inf-schule.de/assets/img/logo/logo_inf-schule_weiss2.png)
-
-### [Link zur Aufgabe](https://www.inf-schule.de/information/darstellunginformation/binaerdarstellungzahlen)
-
-## Einstieg - Gefängnisausbruch
 > Aufgabe 1
 
     Ja das was Palu sagt stimmt. Man kann alle Zahlen bis 127 darstellen.
@@ -13,8 +7,6 @@
     (a) Die Stellenwerte der Lampen verdoppeln sich. (0=1,1=2,2=4,3=8,4=16, 5=32, 6=64)
 
     (b) siehe .xlsx Tabelle
-
-#### HA: Restliche Aufgaben (https://www.inf-schule.de/information/darstellunginformation/binaerdarstellungzahlen/einstieg_gefaengnisausbruch)
 
 > Aufgabe 3
 
@@ -57,11 +49,8 @@
 
     (c) 1815 = 1000 + 800 + 10 + 5 = M + DCCC + X + V = MDCCXV
 
-![Ada Lovelace, die als erste Erstellerin von Computerprogrammen](https://www.bing.com/th?id=OSK.HERO6pWim_axaD5Z0Z0u24V1KBVi6H6R6PpVvomRv5EF8Tk&pid=cdx&w=320&h=189&c=7)
-
     (d) 1777 = 1000 + 700 + 70 + 7 = M + DCC + LXX + VII = MDCCLXXVII
 
-![Der berühmte Mathematiker Carl Friedrich Gauß](https://www.bing.com/th?id=OSK.HEROm0yrFPGQPFIQnXLBcWXAUIRl_xB3KYgwAcJHdhg2T0w&pid=cdx&w=320&h=189&c=7)
 
 > Aufgabe 4
 
