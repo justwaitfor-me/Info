@@ -1,13 +1,5 @@
-# Binärdarstellung von Zahlen
-![Info Bild](https://www.inf-schule.de/assets/img/logo/logo_inf-schule_weiss2.png)
-
-### [Link zur Aufgabe](https://www.inf-schule.de/information/darstellunginformation/binaerdarstellungzeichen)
-
-![ASCII Tabelle](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ASCII-Table.svg/2522px-ASCII-Table.svg.png)
-
-## Einstieg - Gefängnisausbruch
-
-> Aufgabe 1
+Einstieg - Gefängnisausbruch
+Aufgabe 1
 
     (a) AB IN DIE FREI
 
@@ -16,21 +8,20 @@
         01001001
         01010100
 
-> Aufgabe 2
+Aufgabe 2
 
     (a) Um den code zu entschlüsseln braucht man eine ASCII Tabelle
 
     (b) aus und vorbei
 
-## Übungen
-
-> Aufgabe 1
+Übungen
+Aufgabe 1
 
     Code: 01010000 01001001 01000001 01010101 01001110 01000100 01010000 01000001 01010101 01001100
 
     Übersetzung: PIAUNDPAUL 
 
-> Aufgabe 2
+Aufgabe 2
 
     (a) Der Anfang des Textes lautet "MI,".
 
@@ -38,7 +29,7 @@
 
     Zur Erklärung: Der gegebene Text besteht aus Hexadezimalzahlen, die im erweiterten ASCII-Code dargestellt sind. Um den Text zu dekodieren, muss man die Hexadezimalzahlen in ASCII-Zeichen umwandeln. Im erweiterten ASCII-Code entsprechen die Zahlen 4d und 49 den Buchstaben "M" und "I". Die Zahlen 0d und 0a sind Steuerzeichen für "Carriage Return" und "Line Feed", die in Kombination einen Zeilenumbruch ergeben. Daher ergibt sich für den gesamten Text "MI,\r\n28.10.09\r\n".
 
-> Aufgabe 3
+Aufgabe 3
 
     (a) Zur Darstellung des Textes werden insgesamt 42 Bytes benötigt. 
 
