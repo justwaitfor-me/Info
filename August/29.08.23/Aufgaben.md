@@ -42,8 +42,6 @@
 
     (a) Zur Darstellung des Textes werden insgesamt 42 Bytes benötigt. 
 
-    Zur Erklärung: Jedes Zeichen im erweiterten ASCII-Code benötigt ein Byte, also 8 Bits. Der gegebene Text besteht aus insgesamt 29 Zeichen (inklusive Leerzeichen und Satzzeichen). Daher ergibt sich die Gesamtzahl der benötigten Bytes durch Multiplikation der Anzahl der Zeichen mit der Anzahl der Bytes pro Zeichen: 29 Zeichen * 1 Byte/Zeichen = 29 Bytes. Allerdings enthält der Text auch noch drei Zeilenumbrüche, die jeweils aus zwei Steuerzeichen (Carriage Return und Line Feed) bestehen. Daher müssen für jeden Zeilenumbruch zwei zusätzliche Bytes berücksichtigt werden. Insgesamt ergibt sich also: 29 Bytes + 2 Bytes + 2 Bytes + 2 Bytes = 42 Bytes.
-
     (b) Wenn man den Text in Notepad++ eingibt und im Hex-Editor anzeigen lässt, erhält man die folgende Darstellung:
 
     48 61 6E 6E 69 62 61 6C 20 7A 6F 67 0D 0A 6D 69 74 20 33 37 20 45 6C 65 66 61 6E 74 65 6E 0D 0A 75 65 62 65 72 20 64 69 65 20 41 6C 70 65 6E 2E
