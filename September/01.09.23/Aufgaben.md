@@ -46,5 +46,4 @@ Um die Bitfolgen für die Währungssymbole zu identifizieren, müssen wir uns au
     - Thailändischer Baht (฿): Unicode 0E3F
     - Vietnamesischer Dong (₫): Unicode 20AB
 
-    Verwenden Sie einen Online-Unicode-Konverter, um die Hexadezimalwerte in die entsprechenden Textsymbole umzuwandeln.
 
