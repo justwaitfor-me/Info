@@ -8,12 +8,27 @@
 
     (a) Wenn man die einsen und nullen im Kopf unterscheidet kann man erahnen das ein Tier auf dem Bild zu sehen ist.
 
-    (b / c) Der Bildbetrachter wandelt alle einsen in einen Schwarzen Pixel und alle nullen in einen weißen um
+    (b / c) Der Bildbetrachter wandelt alle einsen in einen Schwarzen Pixel und alle nullen in einen weißen um.
 
-    (d) Die Zhalen geben die höhe und die breite des Fotos an
+    (d) Die Zhalen geben die höhe und die breite des Fotos an.
 
 > Aufgabe 2
 
-    siehe bild_quellcode.pbm
+    siehe bild_quellcode_1.pbm
 
-## HA: [Einstieg - Graustufenbilder (alle Aufgaben)](https://www.inf-schule.de/information/darstellunginformation/binaerdarstellungbilder/einstieg_grauwerte)
+
+## Einstieg - Graustufenbilder
+> Aufgabe 1
+
+    (a) Es ändert sich die Anzahl der Pixel.
+
+    (b) Je höher die Zahl desto mehr Pixel sind zu sehen.
+
+    (c) - Die Menge der Pixel.
+        - Alle Zahlen ab der dritten Zeile. (Je höher die Zahl desto heller der Pixel und je niedrieger die Zahl desto dunkler der Pixel.)
+
+> Aufgabe 2
+
+    siehe bild_quellcode_2.pbm
+
+
