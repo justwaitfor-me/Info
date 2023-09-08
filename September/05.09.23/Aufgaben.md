@@ -20,7 +20,7 @@
 ## Einstieg - Graustufenbilder
 > Aufgabe 1
 
-    (a) Es ändert sich die Anzahl der Pixel.
+    (a) Die 255 stellt den max. Wert da.
 
     (b) Je höher die Zahl desto mehr Pixel sind zu sehen.
 
@@ -30,5 +30,6 @@
 > Aufgabe 2
 
     siehe bild_quellcode_2.pbm
+
 
 
