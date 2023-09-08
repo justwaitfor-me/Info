@@ -26,6 +26,6 @@
 
 > Aufgabe 4
 
-    In diesem Fall steht #BCE12B für die Mischfarbe des Hintergrunds. Jeder der sechs Zeichen repräsentiert einen Farbwert für Rot, Grün und Blau (RGB). Die ersten beiden Zeichen (BC) geben den Rotanteil an, die nächsten beiden (E1) den Grünanteil und die letzten beiden (2B) den Blauanteil. 
+    In diesem Fall steht #BCE12B für die Mischfarbe des Hintergrunds. Jeder der sechs Zeichen repräsentiert einen Farbwert für Rot, Grün und Blau (RGB). Die ersten beiden Zeichen (132) geben den Rotanteil an, die nächsten beiden (14) den Grünanteil und die letzten beiden (24) den Blauanteil. 
 
 ## HA: 
