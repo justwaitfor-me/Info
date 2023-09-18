@@ -3,6 +3,8 @@ Meine Informatik hausaufgaben
 
 Alle Aufgaben aus dem Informatik DIV Kurs vom RGH der Stufe 9
 
+DC: https://discord.gg/DQXMwBGa97 (aktuelle Hausaufgaben)
+
 # Inhalt
 ### Die Aufgaben beinhalten die Themen:
 
